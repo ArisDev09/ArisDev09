@@ -59,6 +59,13 @@ I'm a 16 year old student from THPT Chuyen Bac Giang (Bac Giang Specialized High
 ![Clang](https://img.shields.io/badge/Clang-2E2E2E?style=for-the-badge&logo=clang&logoColor=white)
 ![MSVC](https://img.shields.io/badge/MSVC-5E2A84?style=for-the-badge&logo=microsoft&logoColor=white)
 
+#### 🎨 Other Software
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Cinema 4D](https://img.shields.io/badge/Cinema%204D-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white)
+
 </div>
 
 ---
@@ -101,14 +108,6 @@ I'm a 16 year old student from THPT Chuyen Bac Giang (Bac Giang Specialized High
 </details>
 
 <br>
-
----
-
-### 🎧 Vibe with Me
-
-🎵 I'm currently listening to **Album Drill**
-
-🎶 [lovevisck - music!](https://lovevisck.xyz/music)
 
 ---
 
