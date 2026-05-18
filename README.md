@@ -34,9 +34,22 @@ I'm a 16 year old student from THPT Chuyen Bac Giang (Bac Giang Specialized High
 
 ---
 
-### 💻 My Workspace & Setup
+### 💻 My Website
 
-My desktop is using **Arch Linux** with **Hyprland**, here is my dotfile [click me!](https://github.com/Spelljinxer/dotfiles).
+Overview:
+Subsieure is a professional platform specializing in custom software development, high-quality automation tools, and technology solutions for marketing, SEO, and educational projects.
+
+Key Highlights:
+
+Premium Tools & Bots: Provides high-quality automated tools, SEO utilities, and source code with instant delivery within 5 minutes of payment.
+
+Custom Software Development: Specializes in tailored software solutions, including Unity 3D robot simulations, AI-powered pest detection apps for smart agriculture, and management systems.
+
+STEM & Science Project Support: Offers dedicated software creation services for students and tech enthusiasts participating in STEM and science-technological competitions.
+
+Smart AI Chatbot: Features an integrated intelligent virtual assistant powered by Groq to provide quick support and interactive chats.
+
+Reliable Customer Service: Commits to 24/7 dedicated technical support, lifetime product updates, and trusted warranties. [click me!]([https://github.com/Spelljinxer/dotfiles](https://www.subsieure.online/)).
 
 <details>
 <summary><b>🖥️ Click to view my PC </b></summary>
