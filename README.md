@@ -79,9 +79,10 @@ I'm a 16 year old student from THPT Chuyen Bac Giang (Bac Giang Specialized High
 
 ### 🎯 About Me
 
-- 🎮 **Gaming:** I'm a gamer, my fav game are **Minecraft**, **osu!**
-- 🎬 **Anime:** Huge fan of Rom-Com anime
-- 🔭 **Currently working on:** A **Manga Reading Website** (Planning to launch this month!)
+- 🏆 **Achievements:** First prize at **FPTU Seathon 2025 Hackathon**, along with awards in Science & Technology and Young Informatics competitions
+- 💻 **Deep Coding:** Follow deep coding trends, pursuing a career in **Cybersecurity**, passionate about developing software, games, and websites to sell and support my parents
+- 🎨 **Artistic Skills:** Talented in **3D modeling**, **VFX video editing**, and design
+- 🎮 **Gaming:** I'm a gamer, my fav game are **Varlorant**, **Roblox**, **Lol**,**Genshin Impact** and **GTA Series** 
 
 ---
 
@@ -118,8 +119,9 @@ I'm a 16 year old student from THPT Chuyen Bac Giang (Bac Giang Specialized High
 
 ---
 
-### 🎧 Vibe with Me
+### 🎧 My Favorite Music
 
-🎵 I'm currently listening to **Album Drill**
+I have a deep passion for electronic music, especially **Techno** and **Hardstyle**. I also enjoy listening to music from **Russia** and various **European countries**.
 
-🎶 [lovevisck - music!](https://lovevisck.xyz/music)
+My all-time favorite album is:
+🎵 **[My Favorite Album on Spotify](https://open.spotify.com/album/0XHtLe0HkWnnPdomKVoThv)**
