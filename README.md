@@ -4,7 +4,7 @@
 
 # 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝐈'𝐦 𝐍𝐠𝐮𝐲𝐞𝐧 𝐕𝐢𝐧𝐡 𝐂𝐲𝐩𝐡𝐞𝐫 𝐣𝐮𝐬𝐭 𝐜𝐚𝐥𝐥 𝐦𝐞 𝐕𝐢𝐧𝐡 <3 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-### 👨‍💻 Developer | 🎮 Cybersec <img src="https://cdn.discordapp.com/emojis/1434561102775193794.webp?size=48" width="24" height="24" alt="emoji"> | Editor | Designer | 3D Animator <img src="https://cdn.discordapp.com/emojis/1461963151674179725.webp?size=96" width="24" height="24" alt="emoji">
+### 👨‍💻 Developer | Cybersec <img src="https://cdn.discordapp.com/emojis/1434561102775193794.webp?size=48" width="24" height="24" alt="emoji"> | 🎥Editor | 🎨Designer | 🎥3D Animator <img src="https://cdn.discordapp.com/emojis/1461963151674179725.webp?size=96" width="24" height="24" alt="emoji">
 
 I'm a 16 year old student from THPT Chuyen Bac Giang (Bac Giang Specialized High School), and I have skills in programming languages such as: C, C++, Java, Javascript, Python, Rust, Kotlin, Ruby, Bash, Scratch, SQL, Go, Swift, PHP, TypeScript, Dart and skills of a Pentester.
 
