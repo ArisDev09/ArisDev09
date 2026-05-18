@@ -1,24 +1,37 @@
 <div align="center">
 
+<!-- Matrix Terminal Header -->
+<pre style="background: #0a0a0a; color: #00ff00; padding: 15px; border-radius: 12px; font-family: 'Courier New', monospace; font-size: 13px; border: 1px solid #00ff00; box-shadow: 0 0 20px rgba(0,255,0,0.3); margin-bottom: 20px;">
+<span style="color: #00ff00;">┌─────────────────────────────────────────────────────────────────┐</span>
+<span style="color: #00ff00;">│</span>  <span style="color: #00ff00;">╔═════════════════════════════════════════════════════════════╗</span>  <span style="color: #00ff00;">│</span>
+<span style="color: #00ff00;">│</span>  <span style="color: #00ff00;">║</span>  <span style="color: #00ffaa;">[MATRIX MODE ACTIVATED]</span>                                    <span style="color: #00ff00;">║</span>  <span style="color: #00ff00;">│</span>
+<span style="color: #00ff00;">│</span>  <span style="color: #00ff00;">╚═════════════════════════════════════════════════════════════╝</span>  <span style="color: #00ff00;">│</span>
+<span style="color: #00ff00;">│</span>                                                                 <span style="color: #00ff00;">│</span>
+<span style="color: #00ff00;">│</span>  <span style="color: #00ff00;">>_</span> <span style="color: #00ffaa;">Initializing VinhCypher_Matrix.exe</span>                         <span style="color: #00ff00;">│</span>
+<span style="color: #00ff00;">│</span>  <span style="color: #00ff00;">[=======================================]</span> <span style="color: #00ffaa;">100%</span>               <span style="color: #00ff00;">│</span>
+<span style="color: #00ff00;">│</span>  <span style="color: #00ff00;">>_</span> <span style="color: #00ffaa;">System ready. Welcome to the matrix._</span>                      <span style="color: #00ff00;">│</span>
+<span style="color: #00ff00;">└─────────────────────────────────────────────────────────────────┘</span>
+</pre>
+
 ![Banners](https://media.discordapp.net/attachments/1456667119642087601/1505746031361523742/Untitled.png?ex=6a0bbec5&is=6a0a6d45&hm=ef0fd093d8247cd12affd241bafa8dfe9ae06b23761c1335705fc9042ab6883a&=&format=webp&quality=lossless&width=1100&height=632)
 
 <!-- Animated Gradient Text -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38C2FF&center=true&vCenter=true&width=700&height=50&lines=Hi+there%2C+I'm+Nguyen+Vinh+Cypher;Just+call+me+Vinh+%3C3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=700&height=50&lines=Hi+there%2C+I'm+Nguyen+Vinh+Cypher;Just+call+me+Vinh+%3C3" alt="Typing SVG" />
 </h1>
 
 <!-- Glowing Badge Effect -->
 <h3>
-  <img src="https://img.shields.io/badge/Developer-1a5c9e?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0a2b4e">
-  <img src="https://img.shields.io/badge/Cybersec-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0a2b4e">
-  <img src="https://img.shields.io/badge/Editor-00A8E8?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white&labelColor=0a2b4e">
-  <img src="https://img.shields.io/badge/Designer-FF61F6?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=0a2b4e">
-  <img src="https://img.shields.io/badge/3D_Animator-FF9A00?style=for-the-badge&logo=blender&logoColor=white&labelColor=0a2b4e">
+  <img src="https://img.shields.io/badge/Developer-0a0a0a?style=for-the-badge&logo=visual-studio-code&logoColor=00ff00&labelColor=0a0a0a&color=00ff00">
+  <img src="https://img.shields.io/badge/Cybersec-0a0a0a?style=for-the-badge&logo=kalilinux&logoColor=00ff00&labelColor=0a0a0a&color=00ff00">
+  <img src="https://img.shields.io/badge/Editor-0a0a0a?style=for-the-badge&logo=adobe-premiere-pro&logoColor=00ff00&labelColor=0a0a0a&color=00ff00">
+  <img src="https://img.shields.io/badge/Designer-0a0a0a?style=for-the-badge&logo=adobe-photoshop&logoColor=00ff00&labelColor=0a0a0a&color=00ff00">
+  <img src="https://img.shields.io/badge/3D_Animator-0a0a0a?style=for-the-badge&logo=blender&logoColor=00ff00&labelColor=0a0a0a&color=00ff00">
 </h3>
 
 <!-- Glowing Text Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=00FFAA&center=true&vCenter=true&width=800&lines=I'm+a+16+year+old+student+from+THPT+Chuyen+Bac+Giang;Skills:+C%2C+C%2B%2B%2C+Java%2C+Python%2C+Rust%2C+Go%2C+PHP%2C+TypeScript%2C+Dart;Also+a+Pentester+and+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=I'm+a+16+year+old+student+from+THPT+Chuyen+Bac+Giang;Skills:+C%2C+C%2B%2B%2C+Java%2C+Python%2C+Rust%2C+Go%2C+PHP%2C+TypeScript%2C+Dart;Also+a+Pentester+and+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -141,5 +154,15 @@ My all-time favorite album is:
 
 ---
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
+<!-- Animated Matrix Footer -->
+<pre style="background: #0a0a0a; color: #00ff00; padding: 10px; border-radius: 12px; font-family: 'Courier New', monospace; font-size: 11px; border: 1px solid #00ff00; margin-top: 20px;">
+<span style="color: #00ff00;">┌─────────────────────────────────────────────────────────────────┐</span>
+<span style="color: #00ff00;">│</span>  <span style="color: #00ff00;">>_</span> <span style="color: #00ffaa;">nguyenvinhcypher@matrix:~$</span> <span style="color: #ffff00;">sudo code --matrix --cyber</span>          <span style="color: #00ff00;">│</span>
+<span style="color: #00ff00;">│</span>  <span style="color: #00ffaa;">[SYSTEM] Entering the matrix. Follow the white rabbit._</span>        <span style="color: #00ff00;">│</span>
+<span style="color: #00ff00;">│</span>  <span style="color: #00ffaa;">[INFO] 01001001 01101110 01101001 01110100 01101001 01100001</span>   <span style="color: #00ff00;">│</span>
+<span style="color: #00ff00;">│</span>  <span style="color: #00ffaa;">[INFO] 01101100 01101001 01111010 01101001 01101110 01100111</span>   <span style="color: #00ff00;">│</span>
+<span style="color: #00ff00;">│</span>  <span style="color: #00ff00;">>_</span> <span style="color: #00ffaa;">nguyenvinhcypher@matrix:~$</span> <span style="color: #ffff00;">exit</span>                              <span style="color: #00ff00;">│</span>
+<span style="color: #00ff00;">└─────────────────────────────────────────────────────────────────┘</span>
+</pre>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=80&section=footer" width="100%">
