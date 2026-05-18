@@ -6,11 +6,11 @@
 
 ### 👨‍💻 Developer | 🎮 Cybersec (Whitehat) | Editor | Designer | 3D Animator <img src="https://cdn.discordapp.com/emojis/1461963151674179725.webp?size=96" width="24" height="24" alt="emoji">
 
-I'm a 16 year old student from THPT Chuyen Bac Giang (Bac Giang Specialized High School), and I have skills in programming languages such as: C++, Java, Javascript, Python, Rust,... and skills of a Pentester.
+I'm a 16 year old student from THPT Chuyen Bac Giang (Bac Giang Specialized High School), and I have skills in programming languages such as: C, C++, Java, Javascript, Python, Rust, Kotlin, Ruby, Bash, Scratch and skills of a Pentester.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🎯 My Skills
 
 #### 💻 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -19,6 +19,10 @@ I'm a 16 year old student from THPT Chuyen Bac Giang (Bac Giang Specialized High
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Scratch](https://img.shields.io/badge/scratch-%234D97FF.svg?style=for-the-badge&logo=scratch&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
