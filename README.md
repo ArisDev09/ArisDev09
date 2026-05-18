@@ -2,15 +2,37 @@
 
 ![Banners](https://media.discordapp.net/attachments/1456667119642087601/1505746031361523742/Untitled.png?ex=6a0bbec5&is=6a0a6d45&hm=ef0fd093d8247cd12affd241bafa8dfe9ae06b23761c1335705fc9042ab6883a&=&format=webp&quality=lossless&width=1100&height=632)
 
-# 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝐈'𝐦 𝐍𝐠𝐮𝐲𝐞𝐧 𝐕𝐢𝐧𝐡 𝐂𝐲𝐩𝐡𝐞𝐫 𝐣𝐮𝐬𝐭 𝐜𝐚𝐥𝐥 𝐦𝐞 𝐕𝐢𝐧𝐡 <3 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<!-- Animated Gradient Text -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38C2FF&center=true&vCenter=true&width=700&height=50&lines=Hi+there%2C+I'm+Nguyen+Vinh+Cypher;Just+call+me+Vinh+%3C3" alt="Typing SVG" />
+</h1>
 
-### 👨‍💻 Developer | Cybersec <img src="https://cdn.discordapp.com/emojis/1434561102775193794.webp?size=48" width="24" height="24" alt="emoji"> | 🎥Editor | 🎨Designer | 🎥3D Animator <img src="https://cdn.discordapp.com/emojis/1461963151674179725.webp?size=96" width="24" height="24" alt="emoji">
+<!-- Glowing Badge Effect -->
+<h3>
+  <img src="https://img.shields.io/badge/Developer-1a5c9e?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0a2b4e">
+  <img src="https://img.shields.io/badge/Cybersec-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0a2b4e">
+  <img src="https://img.shields.io/badge/Editor-00A8E8?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white&labelColor=0a2b4e">
+  <img src="https://img.shields.io/badge/Designer-FF61F6?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=0a2b4e">
+  <img src="https://img.shields.io/badge/3D_Animator-FF9A00?style=for-the-badge&logo=blender&logoColor=white&labelColor=0a2b4e">
+</h3>
 
-I'm a 16 year old student from THPT Chuyen Bac Giang (Bac Giang Specialized High School), and I have skills in programming languages such as: C, C++, Java, Javascript, Python, Rust, Kotlin, Ruby, Bash, Scratch, SQL, Go, Swift, PHP, TypeScript, Dart and skills of a Pentester.
+<!-- Glowing Text Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=00FFAA&center=true&vCenter=true&width=800&lines=I'm+a+16+year+old+student+from+THPT+Chuyen+Bac+Giang;Skills:+C%2C+C%2B%2B%2C+Java%2C+Python%2C+Rust%2C+Go%2C+PHP%2C+TypeScript%2C+Dart;Also+a+Pentester+and+Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🎯 My Skills
+### 🎯 About Me
+
+- 🏆 **Achievements:** First prize at **FPTU Seathon 2025 Hackathon**, along with awards in Science & Technology and Young Informatics competitions
+- 💻 **Deep Coding:** Follow deep coding trends, pursuing a career in **Cybersecurity**, passionate about developing software, games, and websites to sell and support my parents
+- 🎨 **Artistic Skills:** Talented in **3D modeling**, **VFX video editing**, and design
+- 🎮 **Gaming:** I'm a gamer, my fav game are **Valorant**, **Roblox**, **LoL**, **Genshin Impact** and **GTA Series**
+
+---
+
+### 🛠️ My Skills
 
 #### 💻 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -77,15 +99,6 @@ I'm a 16 year old student from THPT Chuyen Bac Giang (Bac Giang Specialized High
 
 ---
 
-### 🎯 About Me
-
-- 🏆 **Achievements:** First prize at **FPTU Seathon 2025 Hackathon**, along with awards in Science & Technology and Young Informatics competitions
-- 💻 **Deep Coding:** Follow deep coding trends, pursuing a career in **Cybersecurity**, passionate about developing software, games, and websites to sell and support my parents
-- 🎨 **Artistic Skills:** Talented in **3D modeling**, **VFX video editing**, and design
-- 🎮 **Gaming:** I'm a gamer, my fav game are **Varlorant**, **Roblox**, **Lol**,**Genshin Impact** and **GTA Series** 
-
----
-
 ### 💻 My Website
 
 **Overview:** [subsieure.online](https://www.subsieure.online) is a professional platform specializing in custom software development, high-quality automation tools, and technology solutions for marketing, SEO, and educational projects.
@@ -125,3 +138,8 @@ I have a deep passion for electronic music, especially **Techno** and **Hardstyl
 
 My all-time favorite album is:
 🎵 **[My Favorite Album on Spotify](https://open.spotify.com/album/0XHtLe0HkWnnPdomKVoThv)**
+
+---
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
