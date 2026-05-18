@@ -37,7 +37,7 @@ I'm a 16 year old student from THPT Chuyen Bac Giang (Bac Giang Specialized High
 ### 💻 My Website
 
 Overview:
-Subsieure is a professional platform specializing in custom software development, high-quality automation tools, and technology solutions for marketing, SEO, and educational projects.
+www.subsieure.online is a professional platform specializing in custom software development, high-quality automation tools, and technology solutions for marketing, SEO, and educational projects.
 
 Key Highlights:
 
@@ -49,7 +49,7 @@ STEM & Science Project Support: Offers dedicated software creation services for 
 
 Smart AI Chatbot: Features an integrated intelligent virtual assistant powered by Groq to provide quick support and interactive chats.
 
-Reliable Customer Service: Commits to 24/7 dedicated technical support, lifetime product updates, and trusted warranties. [click me!]([https://github.com/Spelljinxer/dotfiles](https://www.subsieure.online/)).
+Reliable Customer Service: Commits to 24/7 dedicated technical support, lifetime product updates, and trusted warranties. [click me!]([https://www.subsieure.online/]).
 
 <details>
 <summary><b>🖥️ Click to view my PC </b></summary>
