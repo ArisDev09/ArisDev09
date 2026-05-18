@@ -33,10 +33,31 @@ I'm a 16 year old student from THPT Chuyen Bac Giang (Bac Giang Specialized High
 
 #### 🛠️ Tools & Frameworks
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Code::Blocks](https://img.shields.io/badge/Code%3A%3ABlocks-41BDF5?style=for-the-badge&logo=codeblocks&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=rider&logoColor=white&color=black&labelColor=crimson)
+![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?style=for-the-badge&logo=goland&logoColor=white)
+![RubyMine](https://img.shields.io/badge/RubyMine-000000.svg?style=for-the-badge&logo=rubymine&logoColor=white)
+![Dev-C++](https://img.shields.io/badge/Dev%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-FF6600?style=for-the-badge&logo=gnu&logoColor=white)
+![Clang](https://img.shields.io/badge/Clang-2E2E2E?style=for-the-badge&logo=clang&logoColor=white)
+![MSVC](https://img.shields.io/badge/MSVC-5E2A84?style=for-the-badge&logo=microsoft&logoColor=white)
 
 </div>
 
@@ -80,6 +101,14 @@ I'm a 16 year old student from THPT Chuyen Bac Giang (Bac Giang Specialized High
 </details>
 
 <br>
+
+---
+
+### 🎧 Vibe with Me
+
+🎵 I'm currently listening to **Album Drill**
+
+🎶 [lovevisck - music!](https://lovevisck.xyz/music)
 
 ---
 
